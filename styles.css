@@ -1,7 +1,7 @@
 body{
 	background:rgb(135, 206, 235);
 }
-.article p:first-child{
+article p:first-child{
 	background-color:black;
 	color:white;
 }
